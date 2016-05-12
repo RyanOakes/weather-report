@@ -5,7 +5,7 @@
 Create a Python application that will pull data from multiple Weather Underground
 API endpoints and present a weather report to the user.
 
-##Skills Practiced
+##Skillsets
 
 1. Understand the purpose and structure of Web APIs.
 2. Understand JSON structure.
