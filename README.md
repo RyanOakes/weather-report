@@ -7,11 +7,11 @@ API endpoints and present a weather report to the user.
 
 ##Skills Practiced
 
-Understand the purpose and structure of Web APIs
-Understand JSON structure
-Be able to access an API using a token
-Be able to make HTTP requests via requests
-Be able to pull and merge information from multiple API endpoints
+Understand the purpose and structure of Web APIs.\n
+Understand JSON structure.\n
+Be able to access an API using a token.\n
+Be able to make HTTP requests via requests.\n
+Be able to pull and merge information from multiple API endpoints.\n
 
 ## Guide
 
